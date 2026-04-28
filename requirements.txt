@@ -1,0 +1,14 @@
+# API
+fastapi
+uvicorn
+python-multipart
+
+# Core ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Medical Imaging
+pydicom
+Pillow
